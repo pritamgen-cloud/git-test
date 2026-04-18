@@ -21,12 +21,13 @@ body {
   background: green;
   color: white;
   font-weight: bold;
+  font-size: 35px;
 } 
 
-.button {
+.button .cancel{
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
-  font-size: 20px;
+  font-size: 24px;
 }
 
 .child {
